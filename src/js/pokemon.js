@@ -1,4 +1,4 @@
-import myPokemon from '../templates/pokemon.hbs';
+import myPokemon from '../templates/pokemon';
 
 const ADDRESS_BASE = 'https://pokeapi.co/api/v2/pokemon';
 const pokemonId = 1;
